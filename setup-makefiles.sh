@@ -23,6 +23,6 @@ export DEVICE=daisy
 export DEVICE_COMMON=msm8953-daisy
 export VENDOR=xiaomi
 
-export DEVICE_BRINGUP_YEAR=2017
+export DEVICE_BRINGUP_YEAR=2020
 
 ./../../$VENDOR/$DEVICE_COMMON/setup-makefiles.sh $@
