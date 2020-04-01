@@ -27,6 +27,9 @@ $(call inherit-product, vendor/superior/config/common.mk)
 #Boot Animation resolution
 TARGET_BOOT_ANIMATION_RES := 1080
 
+#Maintainer name
+DEVICE_MAINTAINERS="pawelik001"
+
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := daisy
 PRODUCT_NAME := superior_daisy
