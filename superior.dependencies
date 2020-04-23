@@ -1,7 +1,7 @@
 [
   {
     "repository": "device_xiaomi_daisy-common",
-    "target_path": "device/xiaomi/msm8953"
+    "target_path": "device/xiaomi/msm8953-common"
   },
   {
     "repository": "vendor_xiaomi_daisy",
